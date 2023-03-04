@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "systemanage",
+    "slug": "systemanage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
